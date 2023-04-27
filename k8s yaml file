@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@SaiVamsi1432 
-arun-gupta
-/
-docker-kubernetes-hello-world
-Public
-Fork your own copy of arun-gupta/docker-kubernetes-hello-world
-Code
-Issues
-Pull requests
-3
-Actions
-Projects
-Security
-Insights
-Beta Try the new code view
-docker-kubernetes-hello-world/deployment.yaml
-@arun-gupta
-arun-gupta updating manifest
-Latest commit 449ba21 on Mar 24, 2018
- History
- 1 contributor
-31 lines (31 sloc)  557 Bytes
- 
 
 apiVersion: extensions/v1beta1
 kind: Deployment
